@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+test-results/
+playwright-report/
+*.log
+# Raw logo uploads; byte-identical originals live in public/brand/ and reference/
+public images logos/
